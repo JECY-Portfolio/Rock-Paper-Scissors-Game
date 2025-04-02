@@ -8,8 +8,7 @@ Player 1 and Player 2 will be prompted to select their choices:
 
 Enter 1 for Rock
 
-Enter 2 for PaperHow to Play
-1.
+Enter 2 for Paper
 
 Enter 3 for Scissors
 
